@@ -1,0 +1,112 @@
+{
+    "GOLD Guidelines":      {
+        "index": 100,
+        "textIdentifier": "GOLDGuidelines",
+        "displayTitle": "GLOBAL STRATEGY FOR THE DIAGNOSIS, MANAGEMENT, AND PREVENTION OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+        "parentApp": "GOLD",
+        "contents": [{
+            "chapters" : {
+                "Preface": {
+                     "index": 1,
+                     "type": "node",
+                     "title": "Preface",
+                     "contents" : "This is the Preface"
+                },
+                "Introduction": {
+                     "index": 2,
+                     "type": "node",
+                     "title": "Introduction",
+                     "contents" : "This is the Introduction",
+                     "node-0" : {
+                        "index": 0,
+                        "title": "Intro Node A",
+                        "subTitle": "Intro Node A subtitle",
+                        "summary": "Here is the summary for Intro Node A",
+                        "contents": "Please stop for one second …",
+                        "node-0-0": {
+                            "index": 0,
+                            "title": "Intro Node A",
+                            "subTitle": "Intro Node A subtitle",
+                            "contents": "Please stop for one second …",
+                            "onScore": 0
+                        }
+                     },
+                     "node-1" : {
+                        "index": 1,
+                        "title": "Intro Node B",
+                        "subTitle": "Intro Node B subtitle",
+                        "summary": "Here is the summary for Intro Node B",
+                        "contents": "while i try and try to put your flowers on"
+                     }
+                }
+            },
+            "references" : {
+                "Section 1": {
+                     "section": 1,
+                     "title": "References Section 1",
+                     "reference0" : {    "index": 0, "authors": "Lozano R, Naghavi M, Foreman K, et al.", "title": "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010.", "publication": "Lancet 2012; 380(9859): 2095-128.", "link": "" },
+                     "reference1" : {    "index": 1, "authors": "Mathers CD, Loncar D.", "title": "Projections of global mortality and burden of disease from 2002 to 2030.", "publication": "PLoS Med 2006; 3(11): e442.", "link": "" }
+                },
+                "Section 2": {
+                    "section": 2,
+                    "title": "References Section 2",
+                    "reference0" : { "index": 0, "authors": "American Lung Association Epidemiology and Statistics Unit.", "title": "Trends in COPD (Chronic Bronchitis and Emphysema): Morbidity and Mortality. 2013.", "publication": "", "link": "http://www.lung.org/assets/documents/research/copd-trend-report.pdf" },
+                    "reference1" : { "index": 1, "authors": "Kim V, Crapo J, Zhao H, et al.", "title": "Comparison between an alternative and the classic definition of chronic bronchitis in COPDGene.", "publication": "Annals of the American Thoracic Society 2015; 12(3): 332-9.", "link": "" }
+                }
+            }
+        }]
+    },
+    
+    
+    "Clexane":      {
+        "index": 101,
+        "textIdentifier": "ClexaneSPC",
+        "displayTitle": "Summary of Product Characteristics for Clexane",
+        "parentApp": "Clexane",
+        "contents": [{
+            "chapters" : {
+                "Preface": {
+                     "index": 1,
+                     "type": "node",
+                     "title": "Preface",
+                     "contents" : "This is the Clexane Preface"
+                     },
+                "Introduction": {
+                     "index": 2,
+                     "type": "node",
+                     "title": "Introduction",
+                     "contents" : "This is the Clexane Introduction",
+                     "node-0" : {
+                     "index": 0,
+                     "title": "Clexane Intro Node A",
+                     "subTitle": "Clexane Intro Node A subtitle",
+                     "summary": "Here is the summary for Clexane Intro Node A",
+                     "contents": "When you say you love me Joe"
+                     },
+                     "node-1" : {
+                     "index": 1,
+                     "title": "Clexane Intro Node B",
+                     "subTitle": "Clexane Intro Node B subtitle",
+                     "summary": "Here is the summary for Clexane Intro Node B",
+                     "contents": "how am I supposed to know"
+                     }
+                }
+            },
+            "references" : {
+                "Section 1": {
+                    "section": 1,
+                    "title": "References Section 1",
+                    "reference0" : {    "index": 0, "authors": "Lozano R, Naghavi M, Foreman K, et al.", "title": "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010.", "publication": "Lancet 2012; 380(9859): 2095-128.", "link": "" },
+                    "reference1" : {    "index": 1, "authors": "Mathers CD, Loncar D.", "title": "Projections of global mortality and burden of disease from 2002 to 2030.", "publication": "PLoS Med 2006; 3(11): e442.", "link": "" }
+                },
+                "Section 2": {
+                    "section": 2,
+                    "title": "References Section 2",
+                    "reference0" : { "index": 0, "authors": "American Lung Association Epidemiology and Statistics Unit.", "title": "Trends in COPD (Chronic Bronchitis and Emphysema): Morbidity and Mortality. 2013.", "publication": "", "link": "http://www.lung.org/assets/documents/research/copd-trend-report.pdf" },
+                    "reference1" : { "index": 1, "authors": "Kim V, Crapo J, Zhao H, et al.", "title": "Comparison between an alternative and the classic definition of chronic bronchitis in COPDGene.", "publication": "Annals of the American Thoracic Society 2015; 12(3): 332-9.", "link": "" }
+                }
+            }
+        }]
+    }
+    
+}

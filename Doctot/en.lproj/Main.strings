@@ -1,0 +1,150 @@
+
+/* Class = "UILabel"; text = "Option 2.3"; ObjectID = "1I1-VL-21s"; */
+"1I1-VL-21s.text" = "Option 2.3";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "1ve-JZ-WTQ"; */
+"1ve-JZ-WTQ.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Warning"; ObjectID = "3Hh-yD-DEF"; */
+"3Hh-yD-DEF.text" = "Warning";
+
+/* Class = "UILabel"; text = "FN"; ObjectID = "47s-fn-TPY"; */
+"47s-fn-TPY.text" = "FN";
+
+/* Class = "UIButton"; normalTitle = "<-"; ObjectID = "4Ey-MO-yK3"; */
+"4Ey-MO-yK3.normalTitle" = "<-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4tB-7i-QW6"; */
+"4tB-7i-QW6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "5am-XZ-ZOE"; */
+"5am-XZ-ZOE.text" = "Email";
+
+/* Class = "UILabel"; text = "LN"; ObjectID = "5j0-gR-nJu"; */
+"5j0-gR-nJu.text" = "LN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9GE-Cv-LCu"; */
+"9GE-Cv-LCu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Value 2.1"; ObjectID = "Bf7-px-dci"; */
+"Bf7-px-dci.text" = "Value 2.1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fwc-td-xSV"; */
+"Fwc-td-xSV.text" = "Label";
+
+/* Class = "UILabel"; text = "Setting Extended"; ObjectID = "GlW-iH-EzL"; */
+"GlW-iH-EzL.text" = "Setting Extended";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JDM-Nr-mRI"; */
+"JDM-Nr-mRI.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "KGP-84-gnN"; */
+"KGP-84-gnN.normalTitle" = "8";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "KM0-75-Wwu"; */
+"KM0-75-Wwu.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Jump Off"; ObjectID = "KPu-JJ-8I9"; */
+"KPu-JJ-8I9.text" = "Jump Off";
+
+/* Class = "UILabel"; text = "Warning"; ObjectID = "MEK-3u-jDn"; */
+"MEK-3u-jDn.text" = "Warning";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "MIq-ad-sO1"; */
+"MIq-ad-sO1.text" = "Name";
+
+/* Class = "UILabel"; text = "Option 2.2"; ObjectID = "Ncm-sP-jHF"; */
+"Ncm-sP-jHF.text" = "Option 2.2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Odo-Mx-nZX"; */
+"Odo-Mx-nZX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "PpH-Xz-4N4"; */
+"PpH-Xz-4N4.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Option 2.1"; ObjectID = "QI0-nW-Td7"; */
+"QI0-nW-Td7.text" = "Option 2.1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RRq-Ih-Uo8"; */
+"RRq-Ih-Uo8.text" = "Label";
+
+/* Class = "UILabel"; text = "Counter"; ObjectID = "RoD-pA-C0L"; */
+"RoD-pA-C0L.text" = "Counter";
+
+/* Class = "UILabel"; text = "Heading 2"; ObjectID = "TDT-AS-zav"; */
+"TDT-AS-zav.text" = "Heading 2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TFL-Uz-DcT"; */
+"TFL-Uz-DcT.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "Vfn-f6-c5H"; */
+"Vfn-f6-c5H.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "WLC-SQ-02G"; */
+"WLC-SQ-02G.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wk8-Yi-Xb0"; */
+"Wk8-Yi-Xb0.text" = "Label";
+
+/* Class = "UILabel"; text = "Value 1.1"; ObjectID = "YWy-hu-Asy"; */
+"YWy-hu-Asy.text" = "Value 1.1";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "Z9y-oO-ANg"; */
+"Z9y-oO-ANg.normalTitle" = "2";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "ahV-uP-soj"; */
+"ahV-uP-soj.title" = "Title";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "c1j-Jg-0fP"; */
+"c1j-Jg-0fP.placeholder" = "email";
+
+/* Class = "UILabel"; text = "Pass"; ObjectID = "cUQ-8g-cTz"; */
+"cUQ-8g-cTz.text" = "Pass";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "dhO-5q-p8m"; */
+"dhO-5q-p8m.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Please fill in all fields"; ObjectID = "gXU-vK-NCG"; */
+"gXU-vK-NCG.text" = "Please fill in all fields";
+
+/* Class = "UILabel"; text = "E"; ObjectID = "jMV-DE-Ufs"; */
+"jMV-DE-Ufs.text" = "E";
+
+/* Class = "UILabel"; text = "Scale Title"; ObjectID = "oRk-2Z-yVh"; */
+"oRk-2Z-yVh.text" = "Scale Title";
+
+/* Class = "UILabel"; text = "Option 1.2"; ObjectID = "phM-6a-5tK"; */
+"phM-6a-5tK.text" = "Option 1.2";
+
+/* Class = "UILabel"; text = "FN"; ObjectID = "q3Q-1E-QGQ"; */
+"q3Q-1E-QGQ.text" = "FN";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "qG6-DO-wxo"; */
+"qG6-DO-wxo.normalTitle" = "7";
+
+/* Class = "UISegmentedControl"; s7N-b3-8Qh.segmentTitles[0] = "First"; ObjectID = "s7N-b3-8Qh"; */
+"s7N-b3-8Qh.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; s7N-b3-8Qh.segmentTitles[1] = "Second"; ObjectID = "s7N-b3-8Qh"; */
+"s7N-b3-8Qh.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Option 1.1"; ObjectID = "tXa-Ak-9KX"; */
+"tXa-Ak-9KX.text" = "Option 1.1";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "wOM-HM-YkS"; */
+"wOM-HM-YkS.text" = "Registration";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "wW6-Qy-Mgm"; */
+"wW6-Qy-Mgm.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "wpn-EU-dUk"; */
+"wpn-EU-dUk.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "wxi-fo-8dQ"; */
+"wxi-fo-8dQ.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "Heading 1"; ObjectID = "yHI-An-9J1"; */
+"yHI-An-9J1.text" = "Heading 1";
+
+/* Class = "UILabel"; text = "Heading"; ObjectID = "yaB-rh-Afb"; */
+"yaB-rh-Afb.text" = "Heading";

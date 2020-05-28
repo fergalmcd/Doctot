@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Default.png" translatesAutoresizingMaskIntoConstraints="NO" id="LSl-n6-xT4">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <variation key="heightClass=regular-widthClass=regular" image="DefaultiPad.png"/>
+                            </imageView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="LSl-n6-xT4" secondAttribute="trailing" id="3XT-k1-eAm"/>
+                            <constraint firstItem="LSl-n6-xT4" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="5Rz-uz-N5W"/>
+                            <constraint firstItem="LSl-n6-xT4" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="6jy-Ka-MWd"/>
+                            <constraint firstItem="LSl-n6-xT4" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="B14-bf-Ont"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="LSl-n6-xT4" secondAttribute="bottom" id="DM2-oM-7lF"/>
+                            <constraint firstItem="LSl-n6-xT4" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="ElA-2J-n2z"/>
+                            <constraint firstItem="LSl-n6-xT4" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="Hr8-pt-4yr"/>
+                            <constraint firstAttribute="trailing" secondItem="LSl-n6-xT4" secondAttribute="trailing" id="V5u-9S-WA2"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="LSl-n6-xT4" secondAttribute="bottom" id="WL4-l1-RFP"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="LSl-n6-xT4" secondAttribute="bottom" id="Z4h-Wj-icz"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="LSl-n6-xT4" secondAttribute="trailing" constant="-200" id="abU-NO-4Nf"/>
+                            <constraint firstItem="LSl-n6-xT4" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="topMargin" id="poZ-VH-VHk"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="6jy-Ka-MWd"/>
+                                <exclude reference="ElA-2J-n2z"/>
+                                <exclude reference="Hr8-pt-4yr"/>
+                                <exclude reference="V5u-9S-WA2"/>
+                                <exclude reference="abU-NO-4Nf"/>
+                                <exclude reference="poZ-VH-VHk"/>
+                                <exclude reference="WL4-l1-RFP"/>
+                                <exclude reference="Z4h-Wj-icz"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="568"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Default.png" width="320" height="568"/>
+        <image name="DefaultiPad.png" width="1136" height="640"/>
+    </resources>
+</document>
