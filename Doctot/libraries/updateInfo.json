@@ -1,0 +1,28 @@
+{
+    "books":      {
+        "latestVerion": 1,
+        "updateDate": "01/08/2018",
+        "type": "json"
+    },
+    "Settings":      {
+        "latestVerion": 3,
+        "updateDate": "01/03/2019",
+        "type": "plist"
+    },
+    "scaleDefinitions":      {
+        "latestVerion": 1,
+        "updateDate": "01/08/2018",
+        "type": "json"
+    },
+    "rules":      {
+        "latestVerion": 1,
+        "updateDate": "22/08/2018",
+        "type": "json"
+    },
+    "appSettings":      {
+        "latestVerion": 1,
+        "updateDate": "22/08/2018",
+        "type": "json"
+    }
+    
+}

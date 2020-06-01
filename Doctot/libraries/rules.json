@@ -1,0 +1,99 @@
+{
+    
+    "range":      {
+        "minimum": 0,
+        "maximum": 100
+    },
+    
+    "maxLevels":      {
+        "Level1": {
+            "index": 1,
+            "name": "White Belt",
+            "alternateName": "Phase 1",
+            "sublevel": "New Beginning",
+            "minimumScore": 0,
+            "maximumScore": 99
+        },
+        "Level2": {
+            "index": 2,
+            "name": "Yellow Belt",
+            "alternateName": "Phase 2",
+            "sublevel": "Curiosity",
+            "minimumScore": 100,
+            "maximumScore": 299
+        },
+        "Level3": {
+            "index": 3,
+            "name": "Orange Belt",
+            "alternateName": "Phase 3",
+            "sublevel": "Determination",
+            "minimumScore": 300,
+            "maximumScore": 999
+        },
+        "Level4": {
+            "index": 4,
+            "name": "Green Belt",
+            "alternateName": "Phase 4",
+            "sublevel": "Growth",
+            "minimumScore": 1000,
+            "maximumScore": 1499
+        },
+        "Level5": {
+            "index": 5,
+            "name": "Blue Belt",
+            "alternateName": "Phase 5",
+            "sublevel": "Control",
+            "minimumScore": 1500,
+            "maximumScore": 2499
+        },
+        "Level6": {
+            "index": 6,
+            "name": "Purple Belt",
+            "alternateName": "Phase 6",
+            "sublevel": "Strength",
+            "minimumScore": 2500,
+            "maximumScore": 3999
+        },
+        "Level7": {
+            "index": 7,
+            "name": "Brown Belt",
+            "alternateName": "Phase 7",
+            "sublevel": "Stability",
+            "minimumScore": 4000,
+            "maximumScore": 5999
+        },
+        "Level8": {
+            "index": 8,
+            "name": "Black Belt",
+            "alternateName": "Phase 8",
+            "sublevel": "Mastery",
+            "minimumScore": 6000,
+            "maximumScore": 7999
+        },
+        "Level9": {
+            "index": 9,
+            "name": "Red Belt",
+            "alternateName": "Phase 9",
+            "sublevel": "Leadership",
+            "minimumScore": 8000,
+            "maximumScore": 10000000
+        }
+    },
+    
+    "scoring": {
+        "download": 50,
+        "open": 1,
+        "save": 5,
+        "socialMediaShare": 25,
+        "userDemographics": 25
+    },
+    
+    "weights": {
+        "withinLastDay": 7,
+        "withinLastWeek": 6,
+        "withinLastMonth": 4,
+        "withinLastYear": 2,
+        "overOneYear": 1
+    }
+    
+}
